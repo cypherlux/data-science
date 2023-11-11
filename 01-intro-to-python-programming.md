@@ -33,7 +33,7 @@ x = 44.7
 
 ### Statements
 
-A _statement_ is a unit of code that the Python interpreter can execute.
+A _statement_ is a section of code that represents a command or action.
 
 ### Operators and Operands
 
@@ -54,6 +54,12 @@ _Operands_ are the values that the operator is applied to.
 ### Expressions
 
 An _expression_ is a combination of values, variables, and operators.
+
+An expression is _evaluated_ when it's simplified by performing the operations to field a single value.
+``
+1 + 1
+>> 2
+``
 
 ### Modulus operator
 
