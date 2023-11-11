@@ -4,7 +4,7 @@ Notes from the Tech Labs Data Science course, cuz...you know, Feynman Method and
 
 
 ## Intro to Python Programming
-[to the doc -->](to the doc -->)
+[to the doc -->](https://github.com/cypherlux/data-science/blob/main/01-intro-to-python-programming)
 
 ## Data Manipulation
 
