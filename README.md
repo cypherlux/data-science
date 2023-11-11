@@ -4,7 +4,7 @@ Notes from the Tech Labs Data Science course, cuz...you know, Feynman Method and
 
 
 ## Intro to Python Programming
-to the doc -->
+[to the doc -->](to the doc -->)
 
 ## Data Manipulation
 
