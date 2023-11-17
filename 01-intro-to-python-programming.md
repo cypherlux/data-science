@@ -253,6 +253,30 @@ The short-circuit behavior leads to a technique called the _guardian pattern_, w
 
 ## Chapter 03 - Functions
 
+### Function calls
+
+### Built-in functions
+
+### Type conversion functions
+
+### Math functions
+
+### Random numbers
+
+### Adding new functions
+
+### Definitions and uses
+
+### Flow of execution
+
+### Parameters and arguments
+
+### Fruitful functions and void functions
+
+### Why functions?
+
+### Debugging
+
 ## Chapter 04 - Loops and Iterations
 
 ## Chapter 05 - Strings
